@@ -13,8 +13,8 @@ A Node.js microservice that converts HTML to PDF, built with TypeScript, Express
 
 ```bash
 # Clone the repository
-git clone <repository-url>
-cd HTMLtoPDF-Microservice
+git clone https://github.com/dogukanakin/HTML-to-PDF-Microservice.git
+cd HTML-to-PDF-Microservice
 
 # Install dependencies
 npm install
